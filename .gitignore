@@ -1,0 +1,16 @@
+# Virtual environment
+venv/
+env/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Scan reports (may contain sensitive recon data - don't commit real scan results)
+reports/
+*.json
+
+# OS/editor junk
+.DS_Store
+.vscode/
+.idea/
