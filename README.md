@@ -35,7 +35,7 @@ Running this tool against domains without authorization is **illegal** in most j
 ## Installation
 
 ```bash
-git clone https://github.com/<your-username>/ReconFramework.git
+git clone https://github.com/M0h1t001/ReconFramework.git
 cd ReconFramework
 
 python3 -m venv venv
