@@ -7,13 +7,6 @@
    AUTOMATED BUG BOUNTY & RECONNAISSANCE FRAMEWORK   
 ======================================================
 ```
-
-## ⚠️ Legal Disclaimer
-
-This tool is intended **strictly for authorized security testing** — targets you own, or targets where you have **explicit written permission** (e.g. an active bug bounty program with the domain in scope on HackerOne/Bugcrowd/Intigriti, or a signed penetration testing agreement).
-
-Running this tool against domains without authorization is **illegal** in most jurisdictions (e.g. under the Computer Fraud and Abuse Act in the US, the IT Act 2000 in India, and equivalent laws elsewhere) and may violate the target's Terms of Service, even for passive-looking checks. The author takes no responsibility for misuse. **Always confirm scope before scanning.**
-
 ## Features
 
 | Module | What it does |
